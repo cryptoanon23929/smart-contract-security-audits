@@ -1,0 +1,486 @@
+{
+  "bounties": [],
+  "freelance": [
+    {
+      "source": "Twitter/X",
+      "title": "smart.graphicss (294104 followers)",
+      "url": "https://threads.net/ap/users/17841450945196861/",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "professordouglasalves (55102 followers)",
+      "url": "https://threads.net/ap/users/17841400419631139/",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "altcoinpost (37562 followers)",
+      "url": "https://threads.net/ap/users/17841403072195478/",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "security (4773 followers)",
+      "url": "https://lemmy.ml/u/Security",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "heisec (23881 followers)",
+      "url": "https://social.heise.de/users/heisec",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "Bounty (49 followers)",
+      "url": "https://juick.com/u/Bounty",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "cybersecurityedition (38851 followers)",
+      "url": "https://threads.net/ap/users/17841465200851762/",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "web3isgreat (38811 followers)",
+      "url": "https://indieweb.social/users/web3isgreat",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "securitynews (3811 followers)",
+      "url": "https://infosec.pub/c/securitynews",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "security (103 followers)",
+      "url": "https://infosec.exchange/users/security",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "trip_or_treatss (10352 followers)",
+      "url": "https://threads.net/ap/users/17841400962238875/",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "SecurityBSidesGlobal (2477 followers)",
+      "url": "https://infosec.exchange/users/SecurityBSidesGlobal",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "Smart (49 followers)",
+      "url": "https://troet.cafe/users/Smart",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "ArtSmart (1193 followers)",
+      "url": "https://mas.to/users/ArtSmart",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "SecurityWriter (8485 followers)",
+      "url": "https://infosec.exchange/users/SecurityWriter",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "live_wallpaper_2026 (3616 followers)",
+      "url": "https://threads.net/ap/users/17841470446044200/",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "security (50 followers)",
+      "url": "https://lemmy.world/c/security",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "8bitsecurity (1292 followers)",
+      "url": "https://mastodon.social/users/8bitsecurity",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "notgdc (651 followers)",
+      "url": "https://mastodon.gamedev.place/users/notgdc",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "easterhegg2026 (591 followers)",
+      "url": "https://chaos.social/users/easterhegg2026",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "nigel_paul_smart (639 followers)",
+      "url": "https://ioc.exchange/users/nigel_paul_smart",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "smashingsecurity (3879 followers)",
+      "url": "https://mastodon.green/users/smashingsecurity",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "ubuntusecurity (925 followers)",
+      "url": "https://fosstodon.org/users/ubuntusecurity",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "Ortutt (605 followers)",
+      "url": "https://mastodon.social/users/Ortutt",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "cloudsecurity (740 followers)",
+      "url": "https://infosec.pub/c/cloudsecurity",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "TruthOrFiction (1945 followers)",
+      "url": "https://mastodon.world/users/TruthOrFiction",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "VE3RWJ (429 followers)",
+      "url": "https://mastodon.radio/users/VE3RWJ",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "RedPacketSecurity (748 followers)",
+      "url": "https://mastodon.social/users/RedPacketSecurity",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "smarthomejunkie (1489 followers)",
+      "url": "https://mastodon.world/users/smarthomejunkie",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "smartsecurity (25 followers)",
+      "url": "https://mastodon.social/users/smartsecurity",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "aclmeeting (333 followers)",
+      "url": "https://sigmoid.social/users/aclmeeting",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "githubsecurity (595 followers)",
+      "url": "https://infosec.exchange/users/githubsecurity",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "securityonion (2072 followers)",
+      "url": "https://infosec.exchange/users/securityonion",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "mastsec (533 followers)",
+      "url": "https://noc.social/users/mastsec",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "jonsmart (365 followers)",
+      "url": "https://mastodon.online/users/jonsmart",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "gpc (304 followers)",
+      "url": "https://mastodon.gamedev.place/users/gpc",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "Munross (332 followers)",
+      "url": "https://mastodon.scot/users/Munross",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "windows_security (452 followers)",
+      "url": "https://infosec.pub/c/windows_security",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "ecosurrealism (1243 followers)",
+      "url": "https://jorts.horse/users/ecosurrealism",
+      "type": "bounty"
+    },
+    {
+      "source": "Twitter/X",
+      "title": "Or (26 followers)",
+      "url": "https://misskey-square.net/users/9mclstk61k",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "smart.graphicss (294104 followers)",
+      "url": "https://threads.net/ap/users/17841450945196861/",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "professordouglasalves (55102 followers)",
+      "url": "https://threads.net/ap/users/17841400419631139/",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "altcoinpost (37562 followers)",
+      "url": "https://threads.net/ap/users/17841403072195478/",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "security (4773 followers)",
+      "url": "https://lemmy.ml/u/Security",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "heisec (23881 followers)",
+      "url": "https://social.heise.de/users/heisec",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "Bounty (49 followers)",
+      "url": "https://juick.com/u/Bounty",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "cybersecurityedition (38851 followers)",
+      "url": "https://threads.net/ap/users/17841465200851762/",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "web3isgreat (38811 followers)",
+      "url": "https://indieweb.social/users/web3isgreat",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "securitynews (3811 followers)",
+      "url": "https://infosec.pub/c/securitynews",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "security (103 followers)",
+      "url": "https://infosec.exchange/users/security",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "SecurityBSidesGlobal (2477 followers)",
+      "url": "https://infosec.exchange/users/SecurityBSidesGlobal",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "Smart (49 followers)",
+      "url": "https://troet.cafe/users/Smart",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "ArtSmart (1193 followers)",
+      "url": "https://mas.to/users/ArtSmart",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "SecurityWriter (8485 followers)",
+      "url": "https://infosec.exchange/users/SecurityWriter",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "security (50 followers)",
+      "url": "https://lemmy.world/c/security",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "8bitsecurity (1292 followers)",
+      "url": "https://mastodon.social/users/8bitsecurity",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "nigel_paul_smart (639 followers)",
+      "url": "https://ioc.exchange/users/nigel_paul_smart",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "smashingsecurity (3879 followers)",
+      "url": "https://mastodon.green/users/smashingsecurity",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "ubuntusecurity (925 followers)",
+      "url": "https://fosstodon.org/users/ubuntusecurity",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "cloudsecurity (740 followers)",
+      "url": "https://infosec.pub/c/cloudsecurity",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "VE3RWJ (429 followers)",
+      "url": "https://mastodon.radio/users/VE3RWJ",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "RedPacketSecurity (748 followers)",
+      "url": "https://mastodon.social/users/RedPacketSecurity",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "smarthomejunkie (1489 followers)",
+      "url": "https://mastodon.world/users/smarthomejunkie",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "smartsecurity (25 followers)",
+      "url": "https://mastodon.social/users/smartsecurity",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "githubsecurity (595 followers)",
+      "url": "https://infosec.exchange/users/githubsecurity",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "securityonion (2072 followers)",
+      "url": "https://infosec.exchange/users/securityonion",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "mastsec (533 followers)",
+      "url": "https://noc.social/users/mastsec",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "jonsmart (365 followers)",
+      "url": "https://mastodon.online/users/jonsmart",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "Munross (332 followers)",
+      "url": "https://mastodon.scot/users/Munross",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "windows_security (452 followers)",
+      "url": "https://infosec.pub/c/windows_security",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "chelsea_erin_smart (291 followers)",
+      "url": "https://threads.net/ap/users/17841479607334712/",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "koalafiedhacker (4285 followers)",
+      "url": "https://infosec.exchange/users/koalafiedhacker",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "web3job (171 followers)",
+      "url": "https://mastodon.social/users/web3job",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "security-news-WIRED (57 followers)",
+      "url": "https://flipboard.com/magazines/em-E8PAgRtig5RyJQg_ipg:m:3199480",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "bcsecurity (318 followers)",
+      "url": "https://infosec.exchange/users/bcsecurity",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "tbbhunter (297 followers)",
+      "url": "https://infosec.exchange/users/tbbhunter",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "toosmartmarks (5830 followers)",
+      "url": "https://threads.net/ap/users/17841466239479871/",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "dwsmart (619 followers)",
+      "url": "https://seocommunity.social/users/dwsmart",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "yc_msg (472 followers)",
+      "url": "https://threads.net/ap/users/17841400474727691/",
+      "type": "bounty"
+    },
+    {
+      "source": "Discord",
+      "title": "parrotsec (436 followers)",
+      "url": "https://mastodon.social/users/parrotsec",
+      "type": "bounty"
+    }
+  ],
+  "timestamp": "2026-07-15T20:30:22.448675"
+}
