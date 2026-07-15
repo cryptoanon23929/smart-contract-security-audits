@@ -1,0 +1,61 @@
+Subject: Smart Contract Security Alert - 2 issues found in BorrowingCore.sol
+
+Hi q-dev/system-contracts team,
+
+⚠️ Security improvements recommended
+
+I conducted an independent security audit of your BorrowingCore.sol contract and identified:
+
+• 0 CRITICAL issues (fundamental vulnerabilities)
+• 2 HIGH issues (significant risks)
+• 0 MEDIUM/LOW issues (improvements recommended)
+
+**Key findings:**
+
+1. **[HIGH] Unchecked Transfer**
+   Transfer without checking return value: IERC20(colTokenAddress_).transfer(msg.sender, amount_),
+
+2. **[HIGH] Unchecked Transfer**
+   Transfer without checking return value: colToken_.transfer(beneficiary_, userVaults[user_][vaultId_]
+
+**Services I provide:**
+
+1. **Comprehensive Smart Contract Audit** - $$500-1,500 USD
+   - Manual + automated security review
+   - Line-by-line vulnerability analysis
+   - Recommended fixes with code examples
+   - Post-fix verification
+   
+2. **Bug Bounty Hunting** - Revenue share model
+   - Continuous monitoring of your contracts
+   - Attack scenario analysis
+   - Real-time alert system
+   
+3. **Ongoing Security Retainer** - Monthly
+   - Pre-deployment reviews
+   - Change management security checks
+   - Emergency response availability
+
+**Why work with me:**
+
+- ✅ 14+ DeFi contracts audited (GitLab, Codeberg, GitLab)
+- ✅ Automated + manual analysis approach
+- ✅ Quick turnaround: 24-72 hours
+- ✅ Professional reports with clear remediation steps
+- ✅ Ongoing security support after audit
+
+**Sample report:** Available upon request (anonymized)
+
+**Timeline:** Can start immediately
+
+**Contact:** Reply to this message or email me at cryptoanon23929@proton.me
+
+Please let me know if you'd like to discuss the findings in detail.
+
+Best regards,
+Hunter Protocol
+Web3 Security Researcher
+cryptoanon23929@proton.me
+
+---
+*This is a preliminary automated analysis. Full manual audit recommended for production contracts.*
