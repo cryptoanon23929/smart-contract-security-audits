@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-07-15T20:32:44.488198",
+  "total_contacts": 2,
+  "total_findings": 3,
+  "critical": 0,
+  "high": 3,
+  "contacts": [
+    {
+      "contract": "BreadBank.sol",
+      "repo": "hecarii-tuica-si-paunii/x-mas-ctf-2022-challenges",
+      "findings_count": 1,
+      "critical": 0,
+      "high": 1,
+      "contact": {
+        "name": "X-MAS CTF 2022 Challenges",
+        "description": "",
+        "web_url": "https://gitlab.com/hecarii-tuica-si-paunii/x-mas-ctf-2022-challenges",
+        "topics": []
+      },
+      "proposal_path": "/home/openclaw/workspace/crypto-income/hunter/proposals/outreach_hecarii-tuica-si-paunii_x-mas-ctf-2022-challenges_BreadBank.sol.txt"
+    },
+    {
+      "contract": "BorrowingCore.sol",
+      "repo": "q-dev/system-contracts",
+      "findings_count": 2,
+      "critical": 0,
+      "high": 2,
+      "contact": {
+        "name": "System Contracts",
+        "description": "This repo is used to store solidity smart contracts. ",
+        "web_url": "https://gitlab.com/q-dev/system-contracts",
+        "topics": []
+      },
+      "proposal_path": "/home/openclaw/workspace/crypto-income/hunter/proposals/outreach_q-dev_system-contracts_BorrowingCore.sol.txt"
+    }
+  ]
+}
